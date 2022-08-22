@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/welcomematev1/static/css/main.2fde43b5.css",
+    "main.js": "/welcomematev1/static/js/main.91f3dfb0.js",
+    "index.html": "/welcomematev1/index.html",
+    "main.2fde43b5.css.map": "/welcomematev1/static/css/main.2fde43b5.css.map",
+    "main.91f3dfb0.js.map": "/welcomematev1/static/js/main.91f3dfb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fde43b5.css",
+    "static/js/main.91f3dfb0.js"
+  ]
+}
